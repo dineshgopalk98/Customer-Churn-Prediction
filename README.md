@@ -7,7 +7,7 @@ The churn prediction project aims to develop a machine learning model to predict
 
 
 ### Findings
-- The dataset consists of customer information including demographic data, financial details, and tenure with the company.
+- The dataset consists of customer information including customerId, Age, Gender, financial details, and tenure with the company and also their churn status. 
 - Exploratory data analysis (EDA) revealed a balanced distribution of features with no significant skewness.
 - Customer churn, the target variable, appeared to be evenly distributed, indicating a balanced class.
 
